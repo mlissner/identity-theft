@@ -24,7 +24,7 @@ Sure enough, each of the credit reports listed a long overdue PayPal credit card
 Resolution
 ----------
 
-Resolving this issue has been painful. There are severaal issues:
+Resolving this situation has been painful. There are several issues:
 
 1. I need to [clear things up with the bank that PayPal uses to issue these credit cards][1]
 2. I need to [create an immediate 90 day security hold with each of the credit agencies][2].  
