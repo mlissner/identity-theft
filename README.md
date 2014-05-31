@@ -11,7 +11,7 @@ And so, without further ado, allow me to explain what's going on.
 History
 -------
 
-Around June of last year, I got a phone call from "PayPal" telling me that I needed to pay my credit card bill with them. I was convinced at the time that it wasn't actually PayPal, and that it was a scam phone call. I was wrong about that. The scan had happened earlier, I **did** have a PayPal credit card that somebody had created in my name, and it was indeed overdue. 
+Around June of last year, I got a phone call from "PayPal" telling me that I needed to pay my credit card bill with them. I was convinced at the time that it wasn't actually PayPal, and that it was a scam phone call. I was wrong about that. The scam had happened earlier, I **did** have a PayPal credit card that somebody had created in my name, and it was indeed overdue. 
 
 Months later, I got another phone call, again trying to get me to pay off the PayPal credit card. At this point, I was just impressed with the scammer's persistence, but I didn't pursue it further, and left on a six month trip to New Zealand.
 
@@ -35,15 +35,15 @@ Resolving this issue has been painful. There are severaal issues:
 
 All of these things are under way. You can watch the progress! 
 
-[1]: /mlissner/identity-theft/issues/1
-[2]: /mlissner/identity-theft/issues/2
-[3]: /mlissner/identity-theft/issues/3
-[4]: /mlissner/identity-theft/issues/4
-[5]: /mlissner/identity-theft/issues/5
-[6]: /mlissner/identity-theft/issues/6
-[7]: /mlissner/identity-theft/issues/7
-[8]: /mlissner/identity-theft/issues/8
-[9]: /mlissner/identity-theft/issues/9
-[10]: /mlissner/identity-theft/issues/10
-[11]: /mlissner/identity-theft/issues/11
+[1]: https://github.com/mlissner/identity-theft/issues/1
+[2]: https://github.com/mlissner/identity-theft/issues/2
+[3]: https://github.com/mlissner/identity-theft/issues/3
+[4]: https://github.com/mlissner/identity-theft/issues/4
+[5]: https://github.com/mlissner/identity-theft/issues/5
+[6]: https://github.com/mlissner/identity-theft/issues/6
+[7]: https://github.com/mlissner/identity-theft/issues/7
+[8]: https://github.com/mlissner/identity-theft/issues/8
+[9]: https://github.com/mlissner/identity-theft/issues/9
+[10]: https://github.com/mlissner/identity-theft/issues/10
+[11]: https://github.com/mlissner/identity-theft/issues/11
 
