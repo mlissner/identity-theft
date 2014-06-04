@@ -28,7 +28,7 @@ Resolving this situation has been painful. There are several issues:
 
 1. I need to [clear things up with the bank that PayPal uses to issue these credit cards][1]
 2. I need to <a href="https://github.com/mlissner/identity-theft/issues/2"><s>create an immediate 90 day security hold with each of the credit agencies</s></a>.  
-3. I need to [create a police report][10] and an [affidavit with the FTC][11] -- these form my "Identity Theft Report".
+3. I need to [~~create a police report~~][10] and an [~~affidavit with the FTC~~][11] -- these form my "Identity Theft Report".
 3. I need to set up a seven year security block with the [three][3] [credit][4] [agencies][5] (a more involved process than above).
 5. I need to block the credit card from appearing on my credit report with each of the [three][6] [credit][7] [agencies][8].
 6. I need to get the [debt collector off my back][9].
