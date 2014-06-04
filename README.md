@@ -36,7 +36,6 @@ Resolving this situation has been painful. There are several issues:
 All of these things are under way. You can watch the progress! 
 
 [1]: https://github.com/mlissner/identity-theft/issues/1
-[2]: 
 [3]: https://github.com/mlissner/identity-theft/issues/3
 [4]: https://github.com/mlissner/identity-theft/issues/4
 [5]: https://github.com/mlissner/identity-theft/issues/5
