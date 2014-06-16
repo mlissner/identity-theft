@@ -35,6 +35,22 @@ Resolving this situation has been painful. There are several issues:
 
 All of these things are under way. You can watch the progress! 
 
+
+Lesson Learned
+--------------
+
+There are indeed a few things I will do differently next time this happens, by being either more thorough or less:
+
+1. I requested each of the credit agencies individually that they set up the 90 day block and the seven year security thing. Neither was necessary, as the agencies seem to talk to each other. So far, I've been happiest with Experian (TransUnion charged me for what should have been a free report and Equifax is slow as hell with a bad website).
+2. In Berkeley at least, you don't need to go downtown to get a police report, you simply need to do them online. This doesn't result in a signed report and means that your FTC affidavit isn't signed by the Po (as it's supposed to be), but so far that hasn't mattered.
+3. The debt collector is easily the most annoying part of this -- bank comes in close second -- but they will keep hounding you until they know they're waiting for something. In the future I will make sure to let them know when I'm waiting for something so they can know they're waiting for it too.
+
+Risks taken, yet to be determined if they'll be OK:
+
+1. I didn't get the Po to sign my FTC affidavit or the police report. We'll see if I get away with it.
+2. I didn't get a notary to sign my FTC affidavit. We'll see if I get away with it.
+
+
 [1]: https://github.com/mlissner/identity-theft/issues/1
 [3]: https://github.com/mlissner/identity-theft/issues/3
 [4]: https://github.com/mlissner/identity-theft/issues/4
