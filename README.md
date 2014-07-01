@@ -31,7 +31,7 @@ Resolving this situation has been painful. There are several issues:
 3. I need to [~~create a police report~~][10] and an [~~affidavit with the FTC~~][11] -- these form my "Identity Theft Report".
 3. I need to set up a seven year security block with the [~~three~~][3] [~~credit~~][4] [~~agencies~~][5] (a more involved process than above).
 5. I need to block the credit card from appearing on my credit report with each of the [three][6] [~~credit~~][7] [~~agencies~~][8].
-6. I need to get the [debt collector off my back][9].
+6. I need to get the [~~debt collector off my back~~][9].
 
 All of these things are under way. You can watch the progress! 
 
@@ -47,8 +47,8 @@ There are indeed a few things I will do differently next time this happens, by b
 
 Risks taken, yet to be determined if they'll be OK:
 
-1. I didn't get the Po to sign my FTC affidavit or the police report. We'll see if I get away with it.
-2. I didn't get a notary to sign my FTC affidavit. We'll see if I get away with it.
+1. I didn't get the Po to sign my FTC affidavit or the police report. We'll see if I get away with it. **Update**: It's OK!
+2. I didn't get a notary to sign my FTC affidavit. We'll see if I get away with it. **Update**: It's OK!
 
 
 [1]: https://github.com/mlissner/identity-theft/issues/1
