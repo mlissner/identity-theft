@@ -1,7 +1,7 @@
 Identity Theft
 ==============
 
-This repository serves to document and solve my ID theft that began in May of last year. I'm using GitHub for this for two reasons:
+This repository serves to document and solve my ID theft that began in May of 2013. I'm using GitHub for this for two reasons:
 
 1. I'm on hold endlessly during this process and can't really do much else.
 2. More to the point: There are a bunch of things that need to be taken care of, and doing so via GitHub issues actually makes a lot of sense. 
